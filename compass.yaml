@@ -5,7 +5,7 @@ configVersion: 1
 ownerId: 'ari:cloud:teams::team/26861100-6053-4a00-8199-b29f24d7e5f4'
 links:
   - name: ''
-    type: ON_CALL
+    type: DASHBOARD
     url: 'https://health.aws.amazon.com/health/status'
 relationships: {}
 
